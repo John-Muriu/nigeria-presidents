@@ -66,3 +66,82 @@ _figure 1.2 sample of president profile in json_
 
 P.S: You will get a notification when your PR is merged or needs a fix.
 
+##  How begginers can contribute to this project
+
+1. Fork the project
+2. Make any changes in your forked repo
+3. On this repo, click `Pull Requests` and raise a `Pull Request` selecting your fork on the right drop down
+
+Questions can be asked by raising an `Issue`.
+
+## How to clone repo and make changes locally
+
+```
+  click on the clone button (green in colour). This gives you a copy of the project. Its now yours to play around with
+```
+
+- Using git on your local machine. Do this to download the forked copy of this repo to your computer
+
+```
+  git clone https://github.com/yourGithubUsername/nigeria-presidents
+```
+
+- switch to the cloned folder. This can be done with Gitbash or the integrated terminal in the VSCode editor
+
+```
+  cd nigeria-presidents
+```
+
+- Make a new branch. Your name would make a good branch because it's unique
+
+```
+  git checkout -b <name of new branch>
+```
+
+- Open the file `README.md`
+
+- On a new line in alphabetical order, add your name and the link to your Github profile in markdown format
+
+- For example ,
+  `- [Full Name](https://github.com/your-username)`
+
+- Stage your changes
+
+```
+  git add README.md
+```
+
+- Commit the changes
+
+```
+  git commit -m "Add <your-github-username>"
+```
+
+- Check the status of your repository
+
+```
+  git status
+```
+
+- Pushing your repository to github
+
+```
+  git push origin <name of your branch>
+```
+
+or
+
+```
+  git branch -M main
+  git push -u origin main
+```
+
+- Navigate to your fork, on the top of the files section you'll notice a new section containing, a contribute button!
+- Click on the contribute button, it will open a drop down, click the pull request button on the drop down
+  Note: A pull request allows your changes to be merged with the original project.
+
+- Wait for your changes to be merged
+
+Hurray! You successfully made a contribution!
+
+
