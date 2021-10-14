@@ -66,11 +66,7 @@ _figure 1.2 sample of president profile in json_
 
 P.S: You will get a notification when your PR is merged or needs a fix.
 
-<<<<<<< HEAD
-## How begginers can contribute to this project
-=======
 ##  How begginers can contribute to this project
->>>>>>> 4a2a61cc0ebf857469facbdd7d75d23d4f3572b5
 
 1. Fork the project
 2. Make any changes in your forked repo
@@ -147,8 +143,3 @@ or
 - Wait for your changes to be merged
 
 Hurray! You successfully made a contribution!
-<<<<<<< HEAD
-=======
-
-
->>>>>>> 4a2a61cc0ebf857469facbdd7d75d23d4f3572b5
